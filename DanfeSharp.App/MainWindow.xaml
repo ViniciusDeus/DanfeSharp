@@ -17,7 +17,7 @@
             <ColumnDefinition Width="40"/>
         </Grid.ColumnDefinitions>
 
-        <TextBlock Grid.Column="0" Grid.Row="0" >Arquivo Xml</TextBlock>
+        <TextBlock Grid.Column="0" Grid.Row="0" >Arquivo Xml2</TextBlock>
         <TextBox x:Name="PathXml" Grid.Column="0" Grid.Row="1" Margin="0,0,5,0" Drop="Event_Drop" ToolTip="Caminho do arquivo Xml"/>
         <Button Grid.Column="1" Grid.Row="1" Height="20" VerticalAlignment="Top" Click="Button_Click" ToolTip="Procurar arquivo Xml">...</Button>
 
